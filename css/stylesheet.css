@@ -25,6 +25,8 @@
 section .row img {
   margin: 0 0 30px;
   width: 100%;
+}
+.languagephotos{
   height: 220px;
 }
 body {
